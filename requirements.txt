@@ -4,3 +4,5 @@ numpy
 pillow
 google-ai-haystack
 streamlit
+openai-clip
+clip
