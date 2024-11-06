@@ -8,3 +8,4 @@ openai-clip
 clip
 torchaudio
 torchvision
+pypdf
