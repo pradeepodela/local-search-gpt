@@ -6,3 +6,5 @@ google-ai-haystack
 streamlit
 openai-clip
 clip
+torchaudio
+torchvision
