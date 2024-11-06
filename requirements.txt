@@ -1,0 +1,6 @@
+streamlit
+toch
+haystack
+numpy
+pillow
+google-ai-haystack
