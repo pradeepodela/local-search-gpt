@@ -1,4 +1,4 @@
-toch
+torch
 haystack
 numpy
 pillow
